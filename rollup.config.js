@@ -8,6 +8,7 @@ import typescript from "@rollup/plugin-typescript";
 import { typescriptPaths } from "rollup-plugin-typescript-paths";
 import commonjs from "@rollup/plugin-commonjs";
 import { uglify } from "rollup-plugin-uglify";
+// if you want to see the live app
 //import serve from "rollup-plugin-serve";
 //import livereload from "rollup-plugin-livereload";
 
